@@ -1,0 +1,9 @@
+RetinaFace:
+    epoch: 0
+    network: net3
+    nms: 0.4
+    nocrop: 0
+    decay4: 0.5
+    vote: 0
+    image_h: 640
+    image_w: 640

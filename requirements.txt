@@ -1,0 +1,12 @@
+torch==1.7.0+cpu
+torchvision==0.8.1+cpu
+opencv-python
+Django==3.0.5
+docx2txt==0.8
+mxnet
+numpy==1.18.5
+PyMuPDF==1.19.1
+scikit-image==0.16.2
+Pillow
+PyYAML
+whitenoise
